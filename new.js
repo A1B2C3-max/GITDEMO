@@ -1,7 +1,7 @@
 let a = Number(prompt("Enter first number:"));
 let b = Number(prompt("Enter second number:"));
 
-let sum = a + b;
+let add = a + b;
 
-console.log("The sum is: " + sum);
-alert("The sum is: " + sum);
+console.log("The sum is: " + add);
+alert("The sum is: " + add);

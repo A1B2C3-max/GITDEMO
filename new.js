@@ -1,5 +1,5 @@
-let a = Number(prompt("Enter first number:"));
-let b = Number(prompt("Enter second number:"));
+let a = Number(prompt("Enter fis number:"));
+let b = Number(prompt("Enter sec number:"));
 
 let add = a + b;
 
